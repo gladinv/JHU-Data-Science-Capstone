@@ -1,0 +1,13 @@
+name: predictive_word_app
+title: predictive_word_app
+username:
+account: kya58k-gladin-varghese
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7386143
+bundleId: 6430023
+url: https://kya58k-gladin-varghese.shinyapps.io/predictive_word_app/
+when: 1666451440.65534
+lastSyncTime: 1666451440.65535
+asMultiple: FALSE
+asStatic: FALSE
