@@ -16,8 +16,8 @@ shinyUI(   fluidPage(
     br(),
     wellPanel(
       h4("Details"),
-      HTML("<p> Github Repository <a href='https://github.com/enrique1790/Data-Science-Captsone-Project' target='_blank'>https://github.com/enrique1790/Data-Science-Captsone-Project</a></p>"),
-      HTML("<p> Slide Deck Presentation  <a href='http://rpubs.com/enrique1790/444617' target='_blank'>http://rpubs.com/enrique1790/444617</a></p>"),
+      HTML("<p> Github Repository <a href='https://github.com/gladinv/JHU-Data-Science-Capstone' target='_blank'>https://github.com/gladinv/JHU-Data-Science-Capstone</a></p>"),
+      HTML("<p> Slide Deck Presentation  <a href='https://rpubs.com/gladin/slides' target='_blank'>https://rpubs.com/gladin/slides</a></p>"),
       h4("Author:"),
       p("Gladin Varghese")
     )
