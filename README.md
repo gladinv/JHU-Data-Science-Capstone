@@ -1,4 +1,4 @@
-# Data-Science-Captsone-Project: Next Word Prediction App
+# Data-Science-Capstone-Project: Next Word Prediction App
 
 ## About Natural Processing Language
 
